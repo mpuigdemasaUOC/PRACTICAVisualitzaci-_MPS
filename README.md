@@ -1,11 +1,16 @@
+
 # PRACTICAVisualitzaci-_MPS
-VISUALITZACIÓ DE DADES
-A9: Creació de la visualització i lliurament del projecte (Pràctica)
-Marta Puigdemasa i Servent
+
+# A9: Creació de la visualització i lliurament del projecte (Pràctica)
+
+##Repositori propietat de Marta Puigdemasa i Servent
+
+###Assignatura Visualització de dades Aula 1
 
 
-Documentaicó adjuntada:
 
-   -> .PDF amb detall tècnic de la pràctica
-   -> Fitxer de tableu amb codi font, dades i visualitzacions
-   -> link públic de tableau: https://public.tableau.com/app/profile/marta1844/viz/PRACTICA_16231045718430/PRACTICA
+**CONTINGUTS DE L'ENTREGA**
+
+* .PDF amb detall tècnic de la pràctica
+* Fitxer de tableu amb codi font, dades i visualitzacions
+* link públic de tableau: https://public.tableau.com/app/profile/marta1844/viz/PRACTICA_16231045718430/PRACTICA
